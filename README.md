@@ -11,7 +11,7 @@ like below:
 
 `py install.py`
 
-**Note:**Notepad++ overwrites the shortcuts.xml everytime it is closed so 
+**Note**: Notepad++ overwrites the shortcuts.xml everytime it is closed so 
 you need to run the install.py while Notepad++ is closed.
 
 The install script is basic and doesn't check to see if the commands it is 
