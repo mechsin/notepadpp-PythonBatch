@@ -1,0 +1,3 @@
+<Command name="Py Launcher" Ctrl="no" Alt="yes" Shift="no" Key="80">&quot;%APPDATA%\Notepad++\shortcut_batchfiles\RunPythonFull.bat&quot; &quot;$(CURRENT_DIRECTORY)&quot; &quot;$(FILE_NAME)&quot;</Command>
+<Command name="IPython" Ctrl="no" Alt="yes" Shift="no" Key="73">&quot;%APPDATA%\Notepad++\shortcut_batchfiles\RunPythonFull.bat&quot; &quot;$(CURRENT_DIRECTORY)&quot; &quot;$(FILE_NAME)&quot; ipython</Command>
+<Command name="Python Debug" Ctrl="yes" Alt="yes" Shift="no" Key="80">&quot;%APPDATA%\Notepad++\shortcut_batchfiles\RunPythonFull.bat&quot; &quot;$(CURRENT_DIRECTORY)&quot; &quot;$(FILE_NAME)&quot; pdb</Command>
